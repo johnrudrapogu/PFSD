@@ -107,7 +107,7 @@ d = {'Regd.No' : 556, 'Name' : 'Mothi', 'Branch' : 'CSE'}
 # print(d['a'] ['d'])
 
 ## Functions
-def add(x , y):
-    return x + y
+def add(x , y, z):
+    return x + y + z
 
-print(add(5,6))
+print(add(5,6,7))
